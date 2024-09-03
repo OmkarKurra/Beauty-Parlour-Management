@@ -1,0 +1,182 @@
+.totalbc
+{
+    background-color: black;
+}
+#nav-items
+{
+    background-color: deeppink;
+    font-style: oblique;
+    font-size:medium;
+    margin-left:auto;
+
+
+}
+
+#nav-items .hover
+{
+    background-color: black;
+    color:deeppink;
+}
+.imgsize
+{
+    width: 40px;
+    height:40px;
+}
+.tbg
+{
+    background-color: black;
+    color:whitesmoke;
+    margin-top:50px;
+}
+
+
+.abbackground
+{
+    background-color: deeppink;
+    margin:20px 20px 20px 20px;
+}
+.h1-aboutus{
+    text-align:center;
+    color:black;
+}
+#aboutus1
+{
+    
+    color:white;
+    font-size: small;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:50px;
+}
+.cobackground
+{
+    background-color:black;
+    margin:20px 20px 20px 20px;
+}
+.h1-contact{
+    text-align:center;
+    color:white;
+}
+#contactus1
+{
+    margin-left:50px;
+    color:white;
+    font-size: small;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pr-membership{
+    background-color: deeppink;
+    margin:20px 20px 20px 20px;
+}
+.pr-membership-card1{
+    background-color: black;
+    padding:20px;
+    margin:20px;
+}
+.pr-membership-card1:hover {
+    animation: hoverEffect 2s infinite;
+}
+
+@keyframes hoverEffect {
+    0%, 100% {
+        transform: translate(0, 0);
+        box-shadow: 1px 5px 25px 5px rgba(40, 36, 36, 0.5);
+    }
+    50% {
+        transform: translate(0.5em, 0.5em);
+        box-shadow: 1px 5px 25px 5px rgba(40, 36, 36, 0.7);
+    }
+}
+
+.pr-membership-text{
+    font-size:20px;
+    color:white;
+    font-weight:30px;
+    margin:30px;
+}
+.pr-horizontal line{
+    border-color:deeppink;
+    width:20px ;
+}
+.pr-membership-text-contant{
+    text-align:center;
+    color:white;
+    font-weight: bold;
+}
+.pr-membership-head{
+    text-align: center;
+    color: black;
+    margin-top:20px;
+    font-weight: bold;
+}
+.pr-membership-button1{
+    width:100%;
+    background-color:rgb(234, 255, 0);
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    font-size:40px;
+    border: 0cap;
+}
+.pr-hr {
+    height: 5px;
+    background-color: deeppink;
+    border: none;
+}
+.footer-gym{
+    background-color:black;
+}
+.whatsapp-gym{
+    width: 30px;
+    height: 30px;
+    
+}
+.Address-gym{
+    color:white;
+    margin:30px;
+}
+.facrbook-gym{
+    width: 40px;
+    height: 40px;
+       
+}
+.twitter-gym{
+    width: 30px;
+    height: 30px; 
+}
+.gym-Quick-links{
+    color:white;
+}
+.links-gym-quick{
+    margin:30px;
+}
+.link-gym-head{
+    color:white;
+}
+.News-letter-gym{
+    color:white;
+    margin-top:30px;
+}
+.button-footer-letter{
+    background-color:yellow;
+    border: none;
+    height:30px;
+    width:40px;
+    border-radius: 6px;
+}
+.input-gym-letter{
+    background-color:rgb(108, 94, 94);
+    border:0cap;
+}
+.Copy-right-gym{
+    background-color: black;
+}
+.hr-gym-copy-right{
+    border-bottom: 5px solid red;
+}
+.Copy-right-gym{
+    color:white;
+    text-align: center;
+}
+.github-logo{
+    height:100px;
+    width:100px;
+}
